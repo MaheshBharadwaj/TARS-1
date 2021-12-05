@@ -3,3 +3,4 @@ jupyterhub_cookie_secret
 jupyterhub.sqlite
 __pycache__
 .ipynb_checkpoints
+.vscode/
